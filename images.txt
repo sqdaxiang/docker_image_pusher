@@ -9,8 +9,8 @@
 
 #webasepro/webase-front:v1.5.3
 #mysql:8.0.33
-fiscoorg/fiscobcos
-webasepro/webase-node-mgr:v1.5.3
-webasepro/webase-sign:v1.5.3
-webasepro/webase-web:v1.5.3
+fiscoorg/fiscobcos:v1.5.3
+#webasepro/webase-node-mgr:v1.5.3
+#webasepro/webase-sign:v1.5.3
+#webasepro/webase-web:v1.5.3
 
