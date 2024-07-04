@@ -14,4 +14,4 @@
 #webasepro/webase-sign:v1.5.0
 #webasepro/webase-web:v1.5.0
 #ethereum/solc:0.4.25
-fiscoorg/fiscobcos:2.8.0
+fiscoorg/fiscobcos:v2.8.0
