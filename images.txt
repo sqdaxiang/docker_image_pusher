@@ -16,4 +16,4 @@
 #ethereum/solc:0.4.25
 #fiscoorg/fiscobcos:v2.8.0
 #mysql
-ollama/ollama:0.6.6
+ollama/ollama
